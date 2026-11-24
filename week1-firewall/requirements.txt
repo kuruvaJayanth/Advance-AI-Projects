@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+groq
+instructor
+tiktoken
+python-dotenv
+httpx
